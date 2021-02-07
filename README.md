@@ -1,33 +1,18 @@
-# Website
+# scott street thoughts blog
 
-This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
+### basic information
 
-## Installation
+this project uses docusaurus. our blog pages are kept in /blog.
+jakejs is configured with a few tasks to create a new page + to deploy to github pages.
 
-```console
-yarn install
+### adding a page
+
+```bash
+jake create[YOUR_PAGE_NAME]
 ```
 
-## Local Development
+### deploying to github pages
 
-```console
-yarn start
+```bash
+jake deploy[YOUR_GITHUB_USERNAME]
 ```
-
-This command starts a local development server and open up a browser window. Most changes are reflected live without having to restart the server.
-
-## Build
-
-```console
-yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-## Deployment
-
-```console
-GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
