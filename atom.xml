@@ -14,4 +14,11 @@
         <updated>2021-02-11T06:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hi, we're Kate and Lorenzo and we met on Scott Street in Omaha during an internship, got tattoos first, asked questions later and the rest is history.]]></summary>
     </entry>
+    <entry>
+        <title type="html"><![CDATA[Album Review System]]></title>
+        <id>album-review-system</id>
+        <link href="https://scott-street.github.io/blog/album-review-system"/>
+        <updated>2021-02-11T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We're gonna be review a lot of albums, so these are the standards we are basing our ratings on.]]></summary>
+    </entry>
 </feed>
