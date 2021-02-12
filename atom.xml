@@ -8,17 +8,10 @@
     <subtitle>scott street thoughts Blog</subtitle>
     <icon>https://scott-street.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[new post]]></title>
-        <id>new-post</id>
-        <link href="https://scott-street.github.io/blog/new-post"/>
+        <title type="html"><![CDATA[Introductions]]></title>
+        <id>introductions</id>
+        <link href="https://scott-street.github.io/blog/introductions"/>
         <updated>2021-02-11T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[dkfja;lsdfja;dsfa]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[hello, world!]]></title>
-        <id>hello-world</id>
-        <link href="https://scott-street.github.io/blog/hello-world"/>
-        <updated>2021-02-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[hello world, this is a test post]]></summary>
+        <summary type="html"><![CDATA[Hi, we're Kate and Lorenzo and we met on Scott Street in Omaha during an internship, got tattoos first, asked questions later and the rest is history.]]></summary>
     </entry>
 </feed>

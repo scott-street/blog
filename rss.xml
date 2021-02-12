@@ -8,18 +8,11 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[new post]]></title>
-            <link>https://scott-street.github.io/blog/new-post</link>
-            <guid>new-post</guid>
+            <title><![CDATA[Introductions]]></title>
+            <link>https://scott-street.github.io/blog/introductions</link>
+            <guid>introductions</guid>
             <pubDate>Thu, 11 Feb 2021 06:00:00 GMT</pubDate>
-            <description><![CDATA[dkfja;lsdfja;dsfa]]></description>
-        </item>
-        <item>
-            <title><![CDATA[hello, world!]]></title>
-            <link>https://scott-street.github.io/blog/hello-world</link>
-            <guid>hello-world</guid>
-            <pubDate>Sat, 06 Feb 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[hello world, this is a test post]]></description>
+            <description><![CDATA[Hi, we're Kate and Lorenzo and we met on Scott Street in Omaha during an internship, got tattoos first, asked questions later and the rest is history.]]></description>
         </item>
     </channel>
 </rss>
